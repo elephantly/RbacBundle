@@ -1,0 +1,7 @@
+parameters:
+#    elephantly_rbac.example.class: elephantly\RbacBundle\Example
+
+services:
+#    elephantly_rbac.example:
+#        class: %elephantly_rbac.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
