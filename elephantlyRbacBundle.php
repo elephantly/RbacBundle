@@ -1,9 +1,9 @@
 <?php
 
-namespace elephantly\RbacBundle;
+namespace Elephantly\RbacBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class elephantlyRbacBundle extends Bundle
+class ElephantlyRbacBundle extends Bundle
 {
 }
